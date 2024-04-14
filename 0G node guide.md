@@ -7,12 +7,6 @@
 ## join: [0G official telegram](https://t.me/web3_0glabs)
 ## Join their [Discord](https://discord.gg/0glabs)
 
-############
-# [Delegate with us](https://explorer.corenodehq.com/0G%20Testnet./staking/evmosvaloper1jsa27d7qzu6jnzmwtyumy9476sfy0gw5y6nk0n)
-
-############
-
-
 # OG node installation guide.
 
 ## Recommended Hardware Requirements for this node run.
