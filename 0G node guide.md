@@ -1,5 +1,18 @@
 ![Alt Text](https://i.ibb.co/Mg6tGgw/320326989-6eca238f-cd35-411b-9c5a-857fbd80dd33.png)
 
+
+## Learn about the project [Visit Website](https://0g.ai/)
+## Follow 0G on: [X](https://twitter.com/0G_labs)
+## Official Docs to [Validator](https://0glabs.gitbook.io/0g-doc/run-a-node/validator-node)
+## join: [0G official telegram](https://t.me/web3_0glabs)
+## Join their [Discord](https://discord.gg/0glabs)
+
+############
+# [Delegate with us](https://explorer.corenodehq.com/0G%20Testnet./staking/evmosvaloper1jsa27d7qzu6jnzmwtyumy9476sfy0gw5y6nk0n)
+
+############
+
+
 # OG node installation guide.
 
 ## Recommended Hardware Requirements for this node run.
