@@ -1,11 +1,14 @@
 ![Alt Text](https://i.ibb.co/Mg6tGgw/320326989-6eca238f-cd35-411b-9c5a-857fbd80dd33.png)
 
 
-## Learn about the project [Visit Website](https://0g.ai/)
-## Follow 0G on: [X](https://twitter.com/0G_labs)
-## Official Docs to [Validator](https://0glabs.gitbook.io/0g-doc/run-a-node/validator-node)
-## join: [0G official telegram](https://t.me/web3_0glabs)
-## Join their [Discord](https://discord.gg/0glabs)
+## [Visit Website](https://0g.ai/)
+## Twitter [X](https://twitter.com/0G_labs)
+## [Official Docs to run Validator](https://0glabs.gitbook.io/0g-doc/run-a-node/validator-node)
+## [0G official telegram](https://t.me/web3_0glabs)
+## [Discord](https://discord.gg/0glabs)
+
+## [Blockchain Explorer](https://explorer.corenodehq.com/0G%20Testnet./staking)
+
 
 # OG node installation guide.
 
