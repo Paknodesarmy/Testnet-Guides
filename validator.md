@@ -119,7 +119,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/Paknodesarmy/scripts/mai
 
 ##
 
-### Once the synchronization process is complete, you can proceed to step 2. Or open a new terminal
+### Once the synchronization process is complete, you can proceed to step 2.
 
 ## Step 2; Create validator
 
